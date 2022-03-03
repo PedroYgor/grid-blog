@@ -313,3 +313,7 @@ img {
     text-align: center;
     padding: 30px;
   }
+
+  .footer a {
+    color: inherit;
+  }
